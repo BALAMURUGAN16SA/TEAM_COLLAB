@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
   <title>replit</title>
-  <script src = "captJS.js"></script>
+  <script src = "CAP.js"></script>
   <style>
     #id1{
       display : inline-block;
@@ -13,14 +13,17 @@
       width : 200px;
       height : 20px;
     }
+    #id2{
+      display: inline-block;
+    }
   </style>
 </head>
 
-<body onload="fun()">
+<body>
   <script src="script.js"></script>
-  <button id="btn" onclick="fun();">Generate</button><br>
-  <div id="id1"></div><br>
+  <div id="id1"></div><button id="btn" onclick="fun1();">Generate</button><br><br>
   <input type="text" id="id2" placeholder="enter captcha">
+  <div id="id2"></div>&ensp;&ensp;&ensp;&ensp;<button id="btn" onclick="fun2();">Check</button><br><br>
 </body>
 
 </html>
