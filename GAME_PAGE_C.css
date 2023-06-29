@@ -76,7 +76,10 @@ body{
 #left-box{
 	flex : 1;
 	height : 85vh;
-	border : 5px solid black;
+	background-color: #f049ff;
+  	border: solid 1px #bcbcb7;
+  	padding: 15px;
+  	border-radius: 10px;
 }
 #lbi{
 	display: inline-block;
