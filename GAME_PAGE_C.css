@@ -1,5 +1,4 @@
 body{
-<<<<<<< HEAD
 	background-color:  #1C1C1C;
     color: silver;
     font-family: monospace;
@@ -84,7 +83,6 @@ body{
 #LO:hover{
 	background-color: #F25278;
 	color: black;
-=======
 	background-color: #023BA6;
     color: white;
 	margin:0;
@@ -165,8 +163,6 @@ header .navbar ul li a {
 	padding: 0rem;
 	height: 100%;
 	text-decoration:none;
-
->>>>>>> 1677b48e4baac0fb95f7842e55ae868ea6082cf5
 }
 
 
