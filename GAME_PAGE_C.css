@@ -174,7 +174,8 @@ body{
 	border-bottom-right-radius: 50px;
 	flex : 0.6;
 	height : 85vh;
-	background-color: #f049ff;
+	background-color: #33363D;
+	box-shadow: 8px 8px 8px 8px black;
   	border: solid 1px #bcbcb7;
   	padding: 15px;
   	border-radius: 10px;
