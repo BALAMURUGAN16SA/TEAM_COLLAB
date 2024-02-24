@@ -181,6 +181,8 @@ body{
   	border-radius: 10px;
 }
 #lbi{
+	position : relative;
+	left : 10px;
 	display: inline-block;
 	color: black;
 	font-size: 1.4rem;
