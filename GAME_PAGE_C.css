@@ -238,6 +238,8 @@ body{
 #right-box{
 	flex : 1;
 	height : 85vh;
+	background-color: #33363D;
+	box-shadow: 8px 8px 8px 8px black;
 	border : 5px solid black;
 	border-top-left-radius: 50px;
 	border-bottom-left-radius: 50px;
