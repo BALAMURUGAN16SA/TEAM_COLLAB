@@ -182,7 +182,8 @@ body{
 }
 #lbi{
 	position : relative;
-	left : 80px;
+	left : 25%;
+	top : -5px;
 	display: inline-block;
 	color: black;
 	font-size: 1.4rem;
